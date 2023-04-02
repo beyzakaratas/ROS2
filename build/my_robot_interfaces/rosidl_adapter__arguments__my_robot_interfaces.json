@@ -1,0 +1,12 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/home/beyza/ros2_ws/src/my_robot_interfaces:msg/HardwareStatus.msg",
+    "/home/beyza/ros2_ws/src/my_robot_interfaces:msg/LedStateArray.msg",
+    "/home/beyza/ros2_ws/src/my_robot_interfaces:msg/Turtle.msg",
+    "/home/beyza/ros2_ws/src/my_robot_interfaces:msg/TurtleArray.msg",
+    "/home/beyza/ros2_ws/src/my_robot_interfaces:srv/ComputeRectangleArea.srv",
+    "/home/beyza/ros2_ws/src/my_robot_interfaces:srv/SetLed.srv",
+    "/home/beyza/ros2_ws/src/my_robot_interfaces:srv/CatchTurtle.srv"
+  ]
+}

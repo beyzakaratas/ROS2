@@ -1,0 +1,39 @@
+[0.885s] Invoking command in '/home/beyza/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/beyza/ros2_ws/build/my_py_pkg/prefix_override:/home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/beyza/ros2_ws/build/my_py_pkg/build
+[1.265s] running develop
+[1.547s] Invoked command in '/home/beyza/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/beyza/ros2_ws/build/my_py_pkg/prefix_override:/home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/beyza/ros2_ws/build/my_py_pkg/build
+[1.548s] Invoking command in '/home/beyza/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/beyza/ros2_ws/build/my_py_pkg/prefix_override:/home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/beyza/ros2_ws/build/my_py_pkg/build install --record /home/beyza/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
+[1.903s] running egg_info
+[1.903s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.903s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.904s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.904s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.904s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.906s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.907s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.907s] running build
+[1.908s] running build_py
+[1.908s] copying my_py_pkg/hw_status_publisher.py -> /home/beyza/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.908s] copying my_py_pkg/led_panel.py -> /home/beyza/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.909s] running install
+[1.909s] running install_lib
+[1.910s] copying /home/beyza/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/hw_status_publisher.py -> /home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.910s] copying /home/beyza/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/led_panel.py -> /home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.911s] byte-compiling /home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/hw_status_publisher.py to hw_status_publisher.cpython-310.pyc
+[1.912s] byte-compiling /home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/led_panel.py to led_panel.cpython-310.pyc
+[1.912s] running install_data
+[1.913s] running install_egg_info
+[1.915s] removing '/home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.916s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[1.917s] running install_scripts
+[1.942s] Installing add_two_ints_client script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.943s] Installing add_two_ints_client_no_oop script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.943s] Installing add_two_ints_server script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.943s] Installing hw_status_publisher script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.943s] Installing led_panel script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.944s] Installing number_counter script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.944s] Installing number_publisher script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.944s] Installing py_node script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.944s] Installing robot_news_station script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.944s] Installing smartphone script to /home/beyza/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.944s] writing list of installed files to '/home/beyza/ros2_ws/build/my_py_pkg/install.log'
+[1.974s] Invoked command in '/home/beyza/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/beyza/ros2_ws/build/my_py_pkg/prefix_override:/home/beyza/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/beyza/ros2_ws/build/my_py_pkg/build install --record /home/beyza/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
